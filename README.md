@@ -12,6 +12,15 @@
 4. `Camera2.py` where you have steps 1. and 3. combined, so, it takes the video, after you finish, its processes the video and gives you the output for the squat exercise
 - all videos will be saved in the `videos` folder
 
+### Examples
+![alt squat wrong](https://github.com/ntomazin/Gym-workout-monitoring-method-using-webcam/blob/main/images/Screenshot_7.png?raw=true)
+![alt squat right](https://github.com/ntomazin/Gym-workout-monitoring-method-using-webcam/blob/main/images/Screenshot_5.png?raw=true)
+![alt biceps](https://github.com/ntomazin/Gym-workout-monitoring-method-using-webcam/blob/main/images/Screenshot_3.png?raw=true)
+
+
+
+
+
 
 
 
