@@ -13,8 +13,11 @@
 - all videos will be saved in the `videos` folder
 
 ### Examples
+Wrong squat where knees were too close.
 ![alt squat wrong](https://github.com/ntomazin/Gym-workout-monitoring-method-using-webcam/blob/main/images/Screenshot_7.png?raw=true)
+Correct squat.
 ![alt squat right](https://github.com/ntomazin/Gym-workout-monitoring-method-using-webcam/blob/main/images/Screenshot_5.png?raw=true)
+Biceps example.
 ![alt biceps](https://github.com/ntomazin/Gym-workout-monitoring-method-using-webcam/blob/main/images/Screenshot_3.png?raw=true)
 
 
