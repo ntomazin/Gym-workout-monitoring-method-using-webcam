@@ -14,7 +14,7 @@
 
 ### Examples
 Wrong squat where knees were too close.
-![alt squat wrong](https://github.com/ntomazin/Gym-workout-monitoring-method-using-webcam/blob/main/images/Screenshot_7.png?raw=true | width=300)
+![alt squat wrong](https://github.com/ntomazin/Gym-workout-monitoring-method-using-webcam/blob/main/images/Screenshot_7.png | width=300)
 Correct squat.
 ![alt squat right](https://github.com/ntomazin/Gym-workout-monitoring-method-using-webcam/blob/main/images/Screenshot_5.png?raw=true | width=300)
 Biceps example.
